@@ -5230,6 +5230,7 @@ a.list-group-item.active > .badge,
   color: inherit;
   background-image: url('/img/wood_floor.jpg');
   background-repeat: repeat-x;
+  border-bottom: 1px solid #c8c2bf;
 }
 
 .jumbotron h1,
